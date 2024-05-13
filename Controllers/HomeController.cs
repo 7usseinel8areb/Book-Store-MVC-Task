@@ -70,29 +70,41 @@ namespace MyBook.Controllers
             Book book = _context.Books.Find(id);
             return View(book);
         }
+
+        [HttpPost]
         public IActionResult SaveEdit(Book book)
         {
             if (ModelState.IsValid)
             {
-                var uniqueFileName = Guid.NewGuid().ToString();
-                var imagePath = Path.Combine(_webHostEnvironment.WebRootPath, "Images", uniqueFileName);
-                using (var fileStream = new FileStream(imagePath, FileMode.Create))
+                if (book.ImageFile != null)
                 {
-                    book.ImageFile.CopyTo(fileStream);
+                    var uniqueFileName = Guid.NewGuid().ToString() + Path.GetExtension(book.ImageFile.FileName);
+                    var imagePath = Path.Combine(_webHostEnvironment.WebRootPath, "Images", uniqueFileName);
+
+                    using (var fileStream = new FileStream(imagePath, FileMode.Create))
+                    {
+                        book.ImageFile.CopyTo(fileStream);
+                    }
+
+                    book.Image = uniqueFileName;
                 }
-                book.Image = uniqueFileName;
 
                 Book oldBook = _context.Books.Find(book.Id);
-                if(oldBook == null)
+                if (oldBook == null)
                     return NotFound();
+
                 oldBook.Image = book.Image;
                 oldBook.Description = book.Description;
                 oldBook.Title = book.Title;
+
                 _context.SaveChanges();
+
                 return RedirectToAction("Index");
             }
-            return View("Edit",book);
+
+            return View("Edit", book);
         }
+
         #endregion
 
         #region Delete

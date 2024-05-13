@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\MyBook.bundle.scp.css"
     },
     {
+      "Id": "C:\\MyBook\\wwwroot\\Images\\2452de61-a38c-4592-bdaf-c46de62af4fb",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "C:\\MyBook\\wwwroot\\Images\\7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg",
+      "PackagePath": "staticwebassets\\Images\\7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg"
+    },
+    {
+      "Id": "C:\\MyBook\\wwwroot\\Images\\81ea9ccf-7fa1-4931-bc7e-ff090cac1289_C-9.0-in-a-Nutshell-The-Definitive-Reference.jpg",
+      "PackagePath": "staticwebassets\\Images\\81ea9ccf-7fa1-4931-bc7e-ff090cac1289_C-9.0-in-a-Nutshell-The-Definitive-Reference.jpg"
+    },
+    {
+      "Id": "C:\\MyBook\\wwwroot\\Images\\d9c4f4bf-bb0a-4e2a-9ba0-ea19e051cea0.png",
+      "PackagePath": "staticwebassets\\Images\\d9c4f4bf-bb0a-4e2a-9ba0-ea19e051cea0.png"
+    },
+    {
       "Id": "C:\\MyBook\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

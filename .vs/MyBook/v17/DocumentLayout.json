@@ -3,20 +3,34 @@
   "WorkspaceRootPath": "C:\\MyBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|solutionrelative:views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\husse\\Downloads\\RecipeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|solutionrelative:views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./MyBook/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\wwwroot\\images\\81ea9ccf-7fa1-4931-bc7e-ff090cac1289_c-9.0-in-a-nutshell-the-definitive-reference.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|solutionrelative:wwwroot\\images\\81ea9ccf-7fa1-4931-bc7e-ff090cac1289_c-9.0-in-a-nutshell-the-definitive-reference.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\wwwroot\\images\\7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|solutionrelative:wwwroot\\images\\7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A44B7267-4410-4BE4-9317-298768F3BEB6}|MyBook.csproj|c:\\mybook\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,11 +44,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "RecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\husse\\Downloads\\RecipeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Users\\husse\\Downloads\\RecipeRepository.cs",
+              "ToolTip": "C:\\Users\\husse\\Downloads\\RecipeRepository.cs",
+              "RelativeToolTip": "..\\Users\\husse\\Downloads\\RecipeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:17:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "81ea9ccf-7fa1-4931-bc7e-ff090cac1289_C-9.0-in-a-Nutshell-The-Definitive-Reference.jpg - Bitmap [333x499, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\MyBook\\wwwroot\\Images\\81ea9ccf-7fa1-4931-bc7e-ff090cac1289_C-9.0-in-a-Nutshell-The-Definitive-Reference.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Images\\81ea9ccf-7fa1-4931-bc7e-ff090cac1289_C-9.0-in-a-Nutshell-The-Definitive-Reference.jpg",
+              "ToolTip": "C:\\MyBook\\wwwroot\\Images\\81ea9ccf-7fa1-4931-bc7e-ff090cac1289_C-9.0-in-a-Nutshell-The-Definitive-Reference.jpg - Bitmap [333x499, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Images\\81ea9ccf-7fa1-4931-bc7e-ff090cac1289_C-9.0-in-a-Nutshell-The-Definitive-Reference.jpg - Bitmap [333x499, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T10:19:02.693Z",
+              "EditorCaption": " - Bitmap [333x499, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./MyBook/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-24T10:18:33.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\MyBook\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
@@ -42,12 +93,11 @@
               "RelativeToolTip": "Views\\Home\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T15:35:39.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T15:35:39.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\MyBook\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
@@ -55,12 +105,11 @@
               "RelativeToolTip": "Views\\Home\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T13:53:17.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T13:53:17.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\MyBook\\Views\\Home\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Add.cshtml",
@@ -73,29 +122,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\MyBook\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\MyBook\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:49:58.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T14:49:58.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\MyBook\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\MyBook\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwCMAAABHAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T01:40:05.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T01:40:05.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg - Bitmap [464x696, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\MyBook\\wwwroot\\Images\\7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Images\\7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg",
+              "ToolTip": "C:\\MyBook\\wwwroot\\Images\\7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg - Bitmap [464x696, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Images\\7c9df839-3d31-4efa-ae7a-242d9a5b5d53_ce335de8-fa27-468d-81b4-5eea7d948f6a.jpg - Bitmap [464x696, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T10:19:14.337Z",
+              "EditorCaption": " - Bitmap [464x696, 24 bit, JPG]"
             }
           ]
         }
